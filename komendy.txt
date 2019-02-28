@@ -1,0 +1,4 @@
+npm install --global autoprefixer-cli
+autoprefixer-cli -o style.prefixed.css style.css
+
+npm install -g nu-html-checker
