@@ -1,4 +1,5 @@
-npm install --global autoprefixer-cli
+Run autoprefixer-cli:
 autoprefixer-cli -o style.prefixed.css style.css
 
-npm install -g nu-html-checker
+Validate .html files:
+nu-html-checker *.html
