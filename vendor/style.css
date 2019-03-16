@@ -1,0 +1,5 @@
+body { background: #fff; text-align: center; }
+
+.container { color: white; background: #4b4b4b; max-width: 600px; margin: 0 auto; padding: 20px; border-top-left-radius: 50px; border-top-right-radius: 50px; }
+
+p { font-size: 20px; }
